@@ -12,5 +12,3 @@ Built 2 models of word2vec using review corpus. The models cbow and skipgram are
         -> To get vector of the word, vector(word)
         -> To get similar words of word, similar_words(word,count)
         -> To get similar vectors of word, similar_vectors(word,count)
-
-All the answers to the queries are addressed in WordComparisions.pdf. 
